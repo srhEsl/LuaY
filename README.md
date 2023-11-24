@@ -16,6 +16,9 @@ loadstring(game:GetService("HttpService"):GetAsync("https://github.com/srhEsl/Lu
 ### Other
 Copy the contents of the [luayloader.lua](https://github.com/srhEsl/LuaY/raw/main/luayloader.lua) file to the start of your script.
 ## Changelogs
+### V0.0.2
+Added the functions:    
+why
 ### V0.0.1
 Changed the functions:   
 print - say   
